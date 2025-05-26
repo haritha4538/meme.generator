@@ -1,14 +1,14 @@
 # Hack Culprit Virtual Internship - Project Report
 
-## Project Title: [Insert Project Title Here]
+## Project Title: Meme Generator using Python
 
 ### Submitted by:
-**Name:** [Your Full Name]  
+**Name:** Haritha Kurada 
 **Internship Role:** Virtual Intern  
 **Organization:** Hack Culprit  
-**GitHub Profile:** [@yourusername](https://github.com/yourusername)  
-**Project Duration:** [Start Date] – [End Date]  
-**Project Repository:** [GitHub Repo URL]
+**GitHub Profile:**https://github.com/haritha4538  
+**Project Duration:** [01/05/2025] – [31/05/2025]  
+**Project Repository:**https://github.com/haritha4538/meme.generator 
 
 ---
 
